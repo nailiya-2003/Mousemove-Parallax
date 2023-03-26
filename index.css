@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+body {
+    background: #111;
+}
+section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section h2 {
+    color: #fff;
+    position: relative;
+    font-size: 12rem;
+}
